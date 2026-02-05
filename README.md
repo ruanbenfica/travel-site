@@ -7,6 +7,7 @@ Great things that i have learned with this project:
 - Google Maps integration
 - Responsive site (Smartphones, Tablets and Desktop computers)
 - Smooth scrool with menu link
+- Avaible at https://ruanbenfica.github.io/travel-site/
 
 # Desktop Behavior
 ## Images
